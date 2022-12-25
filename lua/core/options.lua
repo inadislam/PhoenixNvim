@@ -32,6 +32,7 @@ op.splitbelow = true
 op.splitright = true
 op.swapfile = false
 op.termguicolors = true
+vim.o.termguicolors = true
 op.timeoutlen = 300
 op.title = true
 op.titlestring = '%<%F%=%l/%L - betterNvim'

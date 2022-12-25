@@ -15,12 +15,12 @@ tree.setup({
     ignore_ft_on_setup = {},
     open_on_tab = false,
     hijack_cursor = false,
-    updated_cwd = false,
+    update_cwd = false,
     hijack_directories = {
         enable = true,
         auto_open = true,
     },
-    diagonistics = {
+    diagnostics = {
         enable = false,
         icons = {
             hint = '',

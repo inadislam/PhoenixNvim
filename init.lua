@@ -1,3 +1,3 @@
+require('configs')
 require('core')
 require('ui')
-require('configs')
