@@ -1,2 +1,2 @@
 # PhoenixNvim
-A Better NVIM Configuration for Personal Development Enviroment
+A very fast Lua based Neovim configuration
